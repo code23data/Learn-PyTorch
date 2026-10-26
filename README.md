@@ -54,13 +54,13 @@ learning-pytorch/
 - Git and GitHub
 
 ## 🚀 Getting Started
-1. Clone the repository
+### 1. Clone the repository
   ```bash
   git clone https://github.com/code23data/Learn-PyTorch.git
   cd Learn-PyTorch
   ```
 
-2. Create a virtual environment (optional)
+### 2. Create a virtual environment (optional)
   ```bash
   python -m venv .venv
   ```
@@ -78,7 +78,7 @@ learning-pytorch/
   ```bash
   source .venv/bin/activate
   ```
-3. Install the dependencies
+### 3. Install the dependencies
   
   Install PyTorch using the instructions appropriate for your operating system and hardware at [pytorch.org](https://pytorch.org/).
   
@@ -87,7 +87,7 @@ learning-pytorch/
   ```bash
   pip install jupyter numpy matplotlib torchvision
   ```
-4. Launch Jupyter Notebook
+### 4. Launch Jupyter Notebook
   ```bash
   jupyter notebook
   ```
