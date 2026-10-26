@@ -80,7 +80,7 @@ learning-pytorch/
   ```
 3. Install the dependencies
   
-  Install PyTorch using the instructions appropriate for your operating system and hardware at pytorch.org.
+  Install PyTorch using the instructions appropriate for your operating system and hardware at [pytorch.org](https://pytorch.org/).
   
   Install Jupyter and the other packages you need:
   
