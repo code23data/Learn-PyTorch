@@ -56,8 +56,8 @@ learning-pytorch/
 ## 🚀 Getting Started
 1. Clone the repository
   ```bash
-  git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-  cd YOUR-REPOSITORY
+  git clone https://github.com/code23data/Learn-PyTorch.git
+  cd Learn-PyTorch
   ```
 
 2. Create a virtual environment (optional)
